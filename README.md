@@ -7,10 +7,10 @@
   <a href="https://linkedin.com/in/fadi-helal" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-FadiHelal-blue?style=flat-square&logo=linkedin">
   </a>
-  <a href="mailto:fadi.helal@example.com">
+  <a href="mailto:fadi.helal@epm.me">
     <img alt="Email" src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail">
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=followers">
+  <a href="https://github.com/Elythaq?tab=followers">
     <img alt="Followers" src="https://img.shields.io/github/followers/Elythaq?label=Follow&style=social">
   </a>
 </p>
