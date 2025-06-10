@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Fadi Helal</h1>
 <h3 align="center">Robotics & AI Engineer | Game Developer | IoT Innovator</h3>
 <p align="center">
-  ![Visitors](https://komarev.com/ghpvc/?username=Elythaq&style=flat-square&color=blue)
+![Visitors](https://komarev.com/ghpvc/?username=Elythaq&style=flat-square&color=blue)
 </p>
 <!-- BADGES -->
 <p align="center">
