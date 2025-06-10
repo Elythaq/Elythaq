@@ -1,6 +1,6 @@
 <!-- TITLE -->
 <p align="center">
-  <img src="assets/fadi_helal_banner_pulse.gif" alt="Fadi Helal Banner" width="100%">
+  <img src="assets/robotics-banner.png" alt="Fadi Helal Banner" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Fadi Helal</h1>
