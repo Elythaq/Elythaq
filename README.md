@@ -40,7 +40,7 @@
 | Area            | Tools & Frameworks |
 |------------------|---------------------|
 | **AI/ML**        | PyTorch, TensorFlow, Scikit-Learn |
-| **Reinforcement Learning** | Gym, SB3, PPO, SAC |
+| **Reinforcement Learning** | Gym, SB3, PPO, SAC, Q Learn and many more|
 | **Robotics**     | ROS, Gazebo, Lidar, Path Planning |
 | **Game Dev**     | Unity, C#, Unreal Engine |
 | **IoT**          | Arduino, ESP32, MQTT |
