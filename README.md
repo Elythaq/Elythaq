@@ -83,7 +83,7 @@
 ### 📈 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Elythaq&show_icons=true&theme=radical" alt="stats" />
+  ![Elythaq's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elythaq&show_icons=true&theme=radical&count_private=true&cache_seconds=1800)
   <br>
   <img src="https://streak-stats.demolab.com/?user=Elythaq&theme=dark" alt="GitHub Streak" />
   <br>
