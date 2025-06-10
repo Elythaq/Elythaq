@@ -1,8 +1,13 @@
 <!-- TITLE -->
 <h1 align="center">Hi 👋, I'm Fadi Helal</h1>
 <h3 align="center">Robotics & AI Engineer | Game Developer | IoT Innovator</h3>
-![Visitors](https://komarev.com/ghpvc/?username=Elythaq&style=flat-square&color=blue)
-
+<p align="center">
+  <img src="assets/banner_github.png" alt="Fadi Helal Banner" width="100%">
+</p>
+<h1 align="center">Hi 👋, I'm Fadi Helal</h1>
+<p align="center">
+  ![Visitors](https://komarev.com/ghpvc/?username=Elythaq&style=flat-square&color=blue)
+</p>
 <!-- BADGES -->
 <p align="center">
   <a href="https://linkedin.com/in/fadi-helal" target="_blank">
